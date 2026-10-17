@@ -1,4 +1,8 @@
 # Splunk SOC Home Lab
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Splunk Universal Forwarder](https://img.shields.io/badge/Splunk_Universal_Forwarder-65A637?style=for-the-badge&logo=splunk&logoColor=white)
 
 ## Introduction
 
